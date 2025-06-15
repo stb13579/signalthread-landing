@@ -8,9 +8,11 @@ export const Navbar = () => {
         <div className="flex h-16 items-center justify-between">
           {/* Logo/Favicon */}
           <div className="flex items-center gap-2">
-            <div className="h-8 w-8 rounded bg-primary flex items-center justify-center">
-              <span className="text-primary-foreground font-bold text-sm">S</span>
-            </div>
+            <img
+              src="/signalthread.svg"
+              alt="SignalThread logo"
+              className="h-8 w-8"
+            />
             <span className="font-bold text-lg">SignalThread</span>
           </div>
 

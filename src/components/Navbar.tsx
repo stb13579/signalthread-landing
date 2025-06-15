@@ -1,5 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
+import { ModeToggle } from "@/components/ModeToggle";
 
 export const Navbar = () => {
   return (
@@ -37,6 +38,7 @@ export const Navbar = () => {
             <Button size="sm">
               Get Started
             </Button>
+            <ModeToggle />
           </div>
         </div>
       </div>

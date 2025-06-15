@@ -10,7 +10,7 @@ export const Navbar = () => {
           {/* Logo/Favicon */}
           <div className="flex items-center gap-2">
             <img
-              src="/signalthread.svg"
+              src={`${import.meta.env.BASE_URL}signalthread.svg`}
               alt="SignalThread logo"
               className="h-8 w-8"
             />

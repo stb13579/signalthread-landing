@@ -170,7 +170,7 @@ export const ContactForm = () => {
                 </Button>
 
                 <p className="text-sm text-muted-foreground text-center">
-                  Join 500+ product teams already on the waitlist
+                  Join other innovative product teams already on the waitlist
                 </p>
               </form>
             </CardContent>

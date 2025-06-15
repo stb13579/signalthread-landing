@@ -12,7 +12,7 @@ export const Navbar = () => {
             <img
               src={`${import.meta.env.BASE_URL}signalthread.svg`}
               alt="SignalThread logo"
-              className="h-8 w-8"
+              className="h-8 w-8 dark:invert"
             />
             <span className="font-bold text-lg">SignalThread</span>
           </div>

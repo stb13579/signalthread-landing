@@ -23,7 +23,7 @@ export const HeroSection = () => {
           </h2>
           
           <p className="text-lg lg:text-xl text-muted-foreground mb-8 max-w-3xl mx-auto">
-            Capture demand signals, analyze user behavior, and make data-driven product decisions 
+            Capture demand signals, analyze user behavior, and make data-informed product decisions 
             that drive growth. Join the future of product discovery.
           </p>
 
